@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         setListeners()
     }
 //
-    
+
     private fun makeColored(view: View) {
         when (view.id) {
 
